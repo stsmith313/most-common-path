@@ -23,7 +23,7 @@ const MostCommonPathFinder = (() => {
         /**
          * Your Code goes here. The logfileString param contains the whole logfile as a string.
          */
-        return ['/smaug', '/puff', '/dragonDashboard']; // <-- replace this with the answer
+        return ['/2', '/3', '/4']; // <-- replace this with the answer
       });
     }
   };
